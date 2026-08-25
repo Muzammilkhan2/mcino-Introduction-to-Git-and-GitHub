@@ -14,4 +14,8 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+<<<<<<< HEAD
 This is a simple interest calculator project (typo fixed). and big free.
+=======
+This is a simple interest calculator project. (typo fixed) and big free...
+>>>>>>> bug-fix-typo
